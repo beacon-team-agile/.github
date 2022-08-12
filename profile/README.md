@@ -21,3 +21,10 @@ Excluded application for coverage: Authentication Server, Email Service.
 August / 13 / 2022 (Friday) ~ 15 (Tuesday): EDT 7:00 P.M. 
 16 (Wednesday) ~ 18 (Friday) : EDT 10 A.M.
 ```
+
+### Team meeting contents:
+
+1. Progress report
+2. Suggestion
+3. Discuss next story (with giving points)
+4. Plan / Diagram fix
