@@ -11,6 +11,13 @@ Denpency Versions: Demo code version
 ### Testing
 
 ```
+Use JUnit with JACOCO
+MockMVC for mvc controller testing
+ - @WebMvcTest(EmployeeController.class)
+ - @ExtendWith(MockitoExtension.class)
+  
+Mockito and H2 database for DAO and Service layers
+
 Minimum coverage: 75%
 Excluded application for coverage: Authentication Server, Email Service.
 ```
