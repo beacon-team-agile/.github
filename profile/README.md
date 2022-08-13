@@ -57,6 +57,7 @@ Core Service and Composite Service repositories includes Java for Maven Actions 
 
 ```
   - Branch names must be all lowercase with space replaced to '-'
+  Ex) "firstname-repo-name"
 ```
 
 
