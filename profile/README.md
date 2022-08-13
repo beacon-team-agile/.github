@@ -46,6 +46,9 @@ Core Service and Composite Service repositories includes Java for Maven Actions 
    
    FYI: You must include backquotes in Java Spring Entity to make a valid mapping.
    Example: @Column(name = "`User`") 
+   
+ - ALL sql-reserved commands are uppercase.
+   
 ```
 
 ### github rules (For SQL scripts)
