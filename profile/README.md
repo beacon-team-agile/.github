@@ -46,8 +46,12 @@ Core Service and Composite Service repositories includes Java for Maven Actions 
    
    FYI: You must include backquotes in Java Spring Entity to make a valid mapping.
    Example: @Column(name = "`User`") 
-   
+```
 
+### github rules (For SQL scripts)
+
+```
+  - Branch names must be all lowercase with space replaced to '-'
 ```
 
 
