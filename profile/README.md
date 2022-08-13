@@ -43,6 +43,10 @@ Core Service and Composite Service repositories includes Java for Maven Actions 
  
  - Any naming those are reserved as RDS/MySQL keywords has to be labeled with back quotes (`)
    Example: CREATE TABLE `Role`; not CREATE TABLE Role;
+   
+   FYI: You must include backquotes in Java Spring Entity to make a valid mapping.
+   Example: @Column(name = "`User`") 
+   
 
 ```
 
