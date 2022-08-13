@@ -30,9 +30,11 @@ Core Service and Composite Service repositories includes Java for Maven Actions 
 ```
  - All databases name must start with capital letter.
    Following syllables must start with capital letter as well.
+   Camel case.
 
  - All table names must start with capital letter.
-   Following syllables must start with capital letter as well. Most name should be noun.
+   Following syllables must start with capital letter as well. Most name should be noun as possible.
+   Camel case.
  
  - Attribute names must be all lowercase. Follows snake-case (Example: "attribute_name").
    However, Java entity variables should be Camel case like "attributeName".
