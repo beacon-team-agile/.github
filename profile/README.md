@@ -40,6 +40,9 @@ Core Service and Composite Service repositories includes Java for Maven Actions 
    However, Java entity variables should be Camel case like "attributeName".
 
  - Must use databases based on each allocated user account to block usage confliction.
+ 
+ - Any naming those are reserved as RDS/MySQL keywords has to be labeled with back quotes (`)
+   Example: CREATE TABLE `Role`; not CREATE TABLE Role;
 
 ```
 
