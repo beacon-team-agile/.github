@@ -60,6 +60,12 @@ Core Service and Composite Service repositories includes Java for Maven Actions 
   Ex) "firstname-repo-name"
 ```
 
+### Spring Boot
+
+```
+   - Only application.properties files; no .yml file except for Eureka and Gateway applications
+```
+
 
 ### Meeting time
 
