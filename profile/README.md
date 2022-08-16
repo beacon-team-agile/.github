@@ -4,7 +4,8 @@
 
 ```
 Java version: 8
-Springboot version: 2.7.2. However, for mySQL DAO services, using 2.6.4 is permitted since 2.7+ does not handle null constraints on auto generated id.
+Springboot version: 2.7.2. 
+However, for mySQL DAO services, using 2.6.4 is permitted since 2.7+ does not handle null constraints on auto generated id.
 
 Denpency Versions: Demo code version
 ```
