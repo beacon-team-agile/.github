@@ -68,6 +68,15 @@ Core Service and Composite Service repositories includes Java for Maven Actions 
    - Only application.properties files; no .yml file except for Eureka and Gateway applications
 ```
 
+### REST API rules
+
+```
+   - url should all be lowercases
+   - request header, body keys must be all lowercases
+   - all space must be replaced by '-'
+   - Mostly use verbs
+```
+
 
 ### Meeting time
 
