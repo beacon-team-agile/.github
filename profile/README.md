@@ -1,3 +1,21 @@
+# Microservice architecture
+
+ ![Micro Service relations](../img/Postman%20Execution%20-%20API%20call,%20reference%20diagram.png)
+
+# Entity Relationship Diagram
+
+<p align="center">
+ <img src="../img/Postman%20Execution%20-%20Application%20ER%20diagram.png" width="550">
+ </br>
+ <img src="../img/Postman%20Execution%20-%20Authentication%20ER%20diagram.png" width="750">
+ </br>
+ <img src="../img/Postman%20Execution%20-%20Housing%20ER%20diagram.png" width="950">
+</p>
+
+# Postman Execution Examples
+
+<img src="../img/Postman%20Execution%20-%20Postman%20Execution%20flow.png">
+
 # Team Agile rules
 
 ### Versions
@@ -91,3 +109,5 @@ August / 13 / 2022 (Friday) ~ 15 (Tuesday): EDT 7:00 P.M.
 2. Suggestion
 3. Discuss next story (with giving points)
 4. Plan / Diagram fix
+
+
