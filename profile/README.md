@@ -7,11 +7,11 @@
 # Entity Relationship Diagram
 
 <p align="center">
- <img src="./img/Postman%20Execution%20-%20Application%20ER%20diagram.png" width="550">
+ <img src="../img/Postman%20Execution%20-%20Application%20ER%20diagram.png" width="550">
  </br>
- <img src="./img/Postman%20Execution%20-%20Authentication%20ER%20diagram.png" width="750">
+ <img src="../img/Postman%20Execution%20-%20Authentication%20ER%20diagram.png" width="750">
  </br>
- <img src="./img/Postman%20Execution%20-%20Housing%20ER%20diagram.png" width="950">
+ <img src="../img/Postman%20Execution%20-%20Housing%20ER%20diagram.png" width="950">
 </p>
 
 # Postman Execution Examples
